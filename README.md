@@ -68,7 +68,9 @@ The model's performance is evaluated using various metrics and visualizations:
 
 ## Dataset
 
-The dataset used for this project is the [PlantVillage Dataset][https://www.kaggle.com/datasets/emmarex/plantdisease]
+The dataset used for this project is the [PlantVillage Dataset][dataset-link].
+
+[dataset-link]: https://www.kaggle.com/datasets/emmarex/plantdisease
 
 ## Results
 
