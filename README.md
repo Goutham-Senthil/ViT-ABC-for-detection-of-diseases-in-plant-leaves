@@ -2,7 +2,9 @@
 
 This project implements a Vision Transformer model optimized with the ABC optimizer to detect diseases in plant leaves. The model is trained and tested on the PlantVillage dataset, achieving high performance metrics.
 
-![Netwok Architecture](resources/Picture1.jpg)
+<p align="center">
+  <img src="resources/Picture1.jpg" alt="Centered Image" width="400">
+</p>
 
 ## Requirements
 
