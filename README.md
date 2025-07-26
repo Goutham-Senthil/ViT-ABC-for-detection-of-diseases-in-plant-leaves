@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 ## Project Structure
 
-- `new - Copy.ipynb`: The main Jupyter notebook containing the code for data processing, model training, and evaluation.
+- `ViT_ABC.ipynb`: The main Jupyter notebook containing the code for data processing, model training, and evaluation.
 - `requirements.txt`: List of dependencies required for the project.
 
 
